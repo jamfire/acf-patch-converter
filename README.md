@@ -2,6 +2,8 @@
 
 This python script takes ```.acf``` and ```.acf.txt``` files and will patch a new ```.acf.patched``` model file. This will not overwrite your existing acf model. It will generate a file with the ```.acf.patched``` extension. You'll need to backup your original model somewhere else and then rename the ```.acf.patched``` file to ```.acf```.
 
+I highly advise you create a temporary directory with your model and patchfile incase something goes wrong. 
+
 ## Script Usage
 
 This script requires that you have python installed.
