@@ -1,0 +1,7 @@
+# ignore acf files
+*.acf
+*.acf.txt
+*.acf.patched
+
+# ignore system files
+.DS_Store
